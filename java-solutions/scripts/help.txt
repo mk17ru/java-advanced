@@ -1,0 +1,4 @@
+sudo apt-get install dos2unix
+dos2unix gen.sh
+dos2unix runJar.sh
+dos2unix compileJavaDoc.sh

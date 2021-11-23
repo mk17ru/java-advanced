@@ -1,0 +1,36 @@
+Analyzed file ./goldenCollection/inputexampleEn.txt 
+Summary statistics
+Number of sentences: 40.
+Number of words: 307.
+Number of numbers: 37.
+Number of sums: 3.
+Number of dates: 3.
+Sentence statistics
+Number of sentences: 40 (40 different).
+Minimum sentence: "Amount of money statistics     Number of amounts: 3 (3 different).".
+Maximum sentence: "You cannot use self-written frameworks and tests run through main.".
+Minimum sentence length: 12 ("Homework 13.")
+Minimum sentence length: 198 ("When completing the assignment, you should pay attention to: Decomposition of messages for localization Matching messages by gender and number Write tests that verify the above application behavior.")
+Average sentence length: 57.075
+Word statistics
+Word number: 307 (142 different).
+Minimum word: "a".
+Maximum word: "You".
+Minimum word length: 1 ("a")
+Minimum word length: 14 ("TextStatistics")
+Average word length: 5.508
+Statistics by numbers
+Number of numbers: 37 (20 different).
+Minimum number: -12345.
+Maximum number: 12345.67.
+Average: 43.748.
+Amount of money statistics:
+Number of sums: 3 (3 different).
+Minimum amount:: $10,000.00.
+Maximum amount:: $34,567.00.
+Average amount:: $18,195.67.
+Date statistics:
+Number of dates: 3 (3 different).
+Minimum amount:: Aug 1, 2021.
+Maximum date: Oct 1, 2022.
+Average date:: Dec 21, 2021.

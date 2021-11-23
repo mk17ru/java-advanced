@@ -1,0 +1,13 @@
+/home/artem/Projects/work/itmo/java-advanced-course/java-advanced-private/test/__current-repo/java-solutions/scripts
+error: module info.kgeorgiy.ja.kozlov.implementor not found in module source path
+./gen.sh: line 4: ../_build/Manifest.txt: No such file or directory
+./gen.sh: line 5: ../_build/Manifest.txt: No such file or directory
+./gen.sh: line 6: ../_build/Manifest.txt: No such file or directory
+./gen.sh: line 7: cd: ../_build/info.kgeorgiy.ja.kozlov.implementor: No such file or directory
+java.io.FileNotFoundException: ../Manifest.txt (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at jdk.jartool/sun.tools.jar.Main.run(Main.java:267)
+	at jdk.jartool/sun.tools.jar.Main.main(Main.java:1649)

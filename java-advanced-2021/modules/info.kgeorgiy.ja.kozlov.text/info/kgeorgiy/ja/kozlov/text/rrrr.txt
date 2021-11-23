@@ -1,0 +1,1 @@
+//            currentString = currentString.trim().replaceAll("(?U)[\\pP]", "");
